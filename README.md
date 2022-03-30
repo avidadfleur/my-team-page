@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <a href="https://ornate-melba-9691f8.netlify.app">
+    <a href="https://avidadfleur.github.io/my-team-page/">
       Solution
     </a>
     <span> | </span>
@@ -31,7 +31,10 @@
 
 ## Overview
 
-
+![Screen Shot 2022-03-26 at 13 26 04](https://user-images.githubusercontent.com/86981532/160935307-891ffb8c-c34a-4f25-8b21-d326a898c846.png)
+![Screen Shot 2022-03-26 at 13 26 13](https://user-images.githubusercontent.com/86981532/160935318-a1f65276-ccb3-4ec9-9f70-1966440453d8.png)
+![Screen Shot 2022-03-26 at 13 26 28](https://user-images.githubusercontent.com/86981532/160935326-219c165c-43af-49f0-93ad-0cee93e18835.png)
+![Screen Shot 2022-03-26 at 13 26 51](https://user-images.githubusercontent.com/86981532/160935328-b7a4f7c8-7989-4aa7-9b95-4cf2f7cc9a9d.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -65,5 +68,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@avidadfleur](https://{github.com/avidadfleur})
-- Twitter [@laviedefleur](https://{twitter.com/laviedefleur})
+- GitHub [@avidadfleur](https://github.com/avidadfleur)
+- Twitter [@laviedefleur](https://twitter.com/laviedefleur)
